@@ -4,6 +4,6 @@
 
 HTML ve CSS kullanılarak oluşturulmuştur.
 
-<h2>ekran gif<h2>
+<h2>ekran.gifi<h2>
 
 ![](sweetapptek.gif)
