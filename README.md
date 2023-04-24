@@ -1,6 +1,6 @@
 # sweetapptek
 
-<h1>sweetapp projesi<h1>
+<h1>sweetapptek projesi<h1>
 
 HTML ve CSS kullanılarak oluşturulmuştur.
 
